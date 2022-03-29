@@ -1,0 +1,9 @@
+Q2)How to create a function in JavaScript?
+
+Ans-
+
+To create a function in JavaScript, follow the following syntax.
+
+function function_name(){  
+//function body  
+}  

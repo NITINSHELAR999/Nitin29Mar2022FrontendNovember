@@ -1,0 +1,7 @@
+Q5)How to write HTML code dynamically using JavaScript?
+
+Ans-
+
+The innerHTML property is used to write the HTML code using JavaScript dynamically. Let's see a simple example:
+
+document.getElementById('mylocation').innerHTML="<h2>This is heading using JavaScript</h2>";   
